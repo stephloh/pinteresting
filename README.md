@@ -3,5 +3,6 @@
 This is the pinteresting sample application for 
 [*One Month Rails*](http://onemonthrails.com)
 
+Test 2 if I will be able to commit and push. First attempt not successful. Hopefully 2nd attempt will work.
 
 by [Steph L](http://stephl.com)
