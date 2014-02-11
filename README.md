@@ -7,4 +7,6 @@ Test 2 if I will be able to commit and push. First attempt not successful. Hopef
 
 Test 3 to check if changed to SSH instead of HTTP.
 
+Test 4 to confirm Test 3 is completed alas.
+
 by [Steph L](http://stephl.com)
