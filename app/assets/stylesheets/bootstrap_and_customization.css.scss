@@ -1,0 +1,8 @@
+$body-bg:		#a264bb;
+$navbar-inverse-link-color:		white;
+
+@import 'bootstrap';
+
+body {
+	background: $body-bg;
+}
