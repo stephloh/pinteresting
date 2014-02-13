@@ -9,6 +9,7 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 1.2'
 gem 'bootstrap-sass', github: 'twbs/bootstrap-sass', branch: '2.1-stable'
+gem 'devise', '~> 3.2.2'
 #gem 'bootstrap-sass', '~> 3.1.0'
 
 group :development, :test do
